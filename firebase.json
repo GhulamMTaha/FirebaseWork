@@ -1,0 +1,9 @@
+{
+  "firebase": "saylani-asmnt",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
